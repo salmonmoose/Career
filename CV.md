@@ -20,6 +20,28 @@ I have always worked with computers - I hope to continue to work with them and l
 
 ---
 
+### Personal Projects
+
+#### Environment
+- Linux
+- Windows
+- C++
+- Javascript
+- Python
+
+#### Description
+- I am a hobbiest game developer, I recreationally program games in my free time
+- More recent projects have had important libraries abstracted from them to share with the community
+
+#### Current Projects
+- A tile matching game built on top of ImpactJS, implementing Google Play Game Services
+- Plugin for ImpactJS providing a pure-canvas implementation of Google Play Game Services
+- A side-view shooter, building a procedural city, using C++ and SDL
+- A Isometric Space Shooter, dynamic threaded generation of Marching Cubes Terrain, using C++ and Irrlicht3D
+- Extension to a procedural noise library allowing for scripting, including an XML implementation
+
+---
+
 ### Software Developer
 December 2011 - Current
 WorldWeb Management Services
@@ -217,134 +239,71 @@ Marryatville, South Australia
 ---
 
 <table>
-    <thead>
-        <tr>
-            <td>Package/Skill</td>
-            <td>Years Experience</td>
-            <td>Last Used</td>
-            <td>Skill Level</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>PHP</td>
-            <td>9</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>JavaScript</td>
-            <td>6</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>prototype.js</td>
-            <td>3</td>
-            <td>2009</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>jQuery</td>
-            <td>4</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>vBulletin (v3)</td>
-            <td>7</td>
-            <td>2010</td>
-            <td>4</td>
-        </tr>
-        <tr>
-            <td>MediaWiki</td>
-            <td>2</td>
-            <td>2007</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>AJAX</td>
-            <td>6</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>Linux (Debian Variants)</td>
-            <td>7</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>Apache 2</td>
-            <td>8</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>MySQL</td>
-            <td>8</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>HTML 5</td>
-            <td>3</td>
-            <td>Current</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>Canvas</td>
-            <td>3</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>CSS 3</td>
-            <td>9</td>
-            <td>Current</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>CodeIgniter</td>
-            <td>4</td>
-            <td>2010</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>Python</td>
-            <td>3</td>
-            <td>2012</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>C++</td>
-            <td>3</td>
-            <td>Current</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>Java</td>
-            <td>7</td>
-            <td>Current</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>Bash Scripting</td>
-            <td>5</td>
-            <td>Current</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>3DStudio Max</td>
-            <td>3</td>
-            <td>2006</td>
-            <td>4</td>
-        </tr>
-        <tr>
-            <td>Combustion</td>
-            <td>3</td>
-            <td>2006</td>
-            <td>2</td>
-        </tr>
-    </tbody>
+<thead>
+<tr>
+    <td>Package/Skill</td><td>Years Experience</td><td>Last Used</td><td>Skill Level</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>PHP</td><td>9</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>JavaScript</td><td>6</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>prototype.js</td><td>3</td><td>2009</td><td>3</td>
+</tr>
+<tr>
+    <td>jQuery</td><td>4</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>vBulletin (v3)</td><td>7</td><td>2010</td><td>4</td>
+</tr>
+<tr>
+    <td>MediaWiki</td><td>2</td><td>2007</td><td>3</td>
+</tr>
+<tr>
+    <td>AJAX</td><td>6</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>Linux (Debian Variants)</td><td>7</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>Apache 2</td><td>8</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>MySQL</td><td>8</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>HTML 5</td><td>3</td><td>Current</td><td>3</td>
+</tr>
+<tr>
+    <td>Canvas</td><td>3</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>CSS 3</td><td>9</td><td>Current</td><td>5</td>
+</tr>
+<tr>
+    <td>CodeIgniter</td><td>4</td><td>2010</td><td>5</td>
+</tr>
+<tr>
+    <td>Python</td><td>3</td><td>2012</td><td>3</td>
+</tr>
+<tr>
+    <td>C++</td><td>3</td><td>Current</td><td>3</td>
+</tr>
+<tr>
+    <td>Java</td><td>7</td><td>Current</td><td>3</td>
+</tr>
+<tr>
+    <td>Bash Scripting</td><td>5</td><td>Current</td><td>3</td>
+</tr>
+<tr>
+    <td>3DStudio Max</td><td>3</td><td>2006</td><td>4</td>
+</tr>
+<tr>
+    <td>Combustion</td><td>3</td><td>2006</td><td>2</td>
+</tr>
+</tbody>
 </table>
