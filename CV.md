@@ -62,3 +62,16 @@ CGChallenge is a twice annual international art competition. Community members a
 Ballistic Publishing distributes high-quality digital art books from warehouses in Australia and the United States, and is looking to expand its distribution channels.
 
 #### Responsibilities
+- Design and Implement media submission system, allowing users to easily present large digital assets to other users and a panel of judges.
+    - Develop user workflow through CodeIgniter MVC framework.
+    - Implement HTML based upload progress
+    - Integrate with Cloud Based Storage (Amazon S3)
+    - Integrate with Cloud Based Transcoding (Zencoder)
+    - Develop user-facing video preview using Mencoder & jQuery allowing users to select static preview frames
+- Design and Implement black boxed e-commerce system, allowing multiple stores, and warehouses to be managed through a single back-end.
+    - Develop initial shopping cart
+    - Design Secure API allowing complete detachment of store software and front-end sites
+    - Create shipping algorithm finding cheapest, and fastest methods of shipping a user’s selected materials
+    - Create discounting system allowing discounts to be applied to a cart in a variety of ways (individual products, shipping, groups of products)
+    - Create series of abstractions, for warehouses, shipping methods, and product types, supporting current inventory and allowing easy implementation for new sales types
+    - Built a CRUD layer for administration that allows overwriting for more user friendly output
