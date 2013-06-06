@@ -17,3 +17,48 @@ I have always worked with computers - I hope to continue to work with them and l
 ## Work Experience
 
 ### Software Developer
+December 2011 - Current
+WorldWeb Management Services
+Adelaide, South Australia
+Internet Services
+
+#### Environment
+- Linux
+- Apache
+- MySQL
+- PHP
+- ContentOne(In-house CMS)
+
+#### Description
+Development of business management software for third parties.
+
+#### Responsibilities
+- Develop Software catering to business rules for a variety of clients
+    - Allow customer service team to design, measure, and layout solar panels based on Google Maps Data
+    - Export layouts to images and PDFs using HTML5 <canvas> element
+    - Monitor stock in multiple warehouses, track incoming, and outgoing shipments, and transfers
+    - Allocate workers based incoming jobs, generate worksheets and rosters
+    - Calculate commissions based on jobs attended
+    - Site to site secure communication channel interfacing legacy system with web-interface
+    - Scheduling application allowing for repeating, and one off appointments, changing frequencies based on season
+
+---
+
+### Enterprise Architect
+2010 - September 2011
+Ballistic Media
+Adelaide, South Australia
+Internet Services
+
+#### Environment
+- Linux
+- Apache 2
+- MySQL
+- PHP
+- CodeIgnighter
+
+#### Description
+CGChallenge is a twice annual international art competition. Community members are tasked to produce still images and videos to represent a specific topic and are judges by leaders of the industry.
+Ballistic Publishing distributes high-quality digital art books from warehouses in Australia and the United States, and is looking to expand its distribution channels.
+
+#### Responsibilities
