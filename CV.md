@@ -33,7 +33,6 @@
 - HTML
     - Canvas
     - CSS 3
-    - 
 - Systems
     - Apache 2
     - MySQL
@@ -59,6 +58,7 @@
     - DoubleClick
     - ZenCoder
     - Google Play Game Services
+
 ---
 
 ## Work Experience
