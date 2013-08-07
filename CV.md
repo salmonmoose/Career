@@ -2,12 +2,7 @@
 
 ---
 
-## Career Goal
-I have always worked with computers - I hope to continue to work with them and learn more about how I can use them to help, and entertain people. I thrive on building software people enjoy using, and really hope I can get them to say "wow!".
-
----
-
-## Online
+## Online & Contact
 - [Github](<https://github.com/salmonmoose>)
 - [Portfolio](<https://sites.google.com/site/salmonmoose>)
 - [Google+](<https://plus.google.com/113268261330966580184/about>)
@@ -16,11 +11,63 @@ I have always worked with computers - I hope to continue to work with them and l
 
 ---
 
+## Skills
+
+- PHP
+    - vBulletin
+    - CodeIgniter
+    - MediaWiki
+    - Expression Engine
+    - ContentOne
+- JavaScript
+    - Vanilla JS
+    - Prototype
+    - JQuery
+    - ImpactJS
+- Python
+    - Panda3D
+- C++
+    - Boost
+    - Irrlicht 3D
+    - SDL
+- HTML
+    - Canvas
+    - CSS 3
+    - 
+- Systems
+    - Apache 2
+    - MySQL
+    - Postgres
+    - Linux
+        - CentOS
+        - Ubuntu
+    - Git
+    - Subversion
+    - Bash
+    - VMware
+    - VServer
+    - AWS S3
+- Media
+    - 3DStudio Max
+    - Combustion
+    - Photoshop
+    - Gimp
+    - Inkscape
+- Webservices
+    - Google Analytics
+    - Google Adsense
+    - DoubleClick
+    - ZenCoder
+    - Google Play Game Services
+---
+
 ## Work Experience
 
 ---
 
 ### Personal Projects
+
+#### [PokerKingdoms](<http://pokerkingdoms.com>)
 
 #### Environment
 - Linux
@@ -250,79 +297,3 @@ Magill, South Australia
 January 1991 - July 1995 
 Marryatville High School
 Marryatville, South Australia
-
----
-
-## Skills Matrix
-
----
-
-<table>
-<thead>
-<tr>
-    <td>Package/Skill</td><td>Years Experience</td><td>Last Used</td><td>Skill Level</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-    <td>PHP</td><td>9</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>JavaScript</td><td>6</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>prototype.js</td><td>3</td><td>2009</td><td>3</td>
-</tr>
-<tr>
-    <td>jQuery</td><td>4</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>vBulletin (v3)</td><td>7</td><td>2010</td><td>4</td>
-</tr>
-<tr>
-    <td>MediaWiki</td><td>2</td><td>2007</td><td>3</td>
-</tr>
-<tr>
-    <td>AJAX</td><td>6</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>Linux (Debian Variants)</td><td>7</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>Apache 2</td><td>8</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>MySQL</td><td>8</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>HTML 5</td><td>3</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>Canvas</td><td>3</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>CSS 3</td><td>9</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>CodeIgniter</td><td>4</td><td>2010</td><td>5</td>
-</tr>
-<tr>
-    <td>Python</td><td>3</td><td>2012</td><td>3</td>
-</tr>
-<tr>
-    <td>C++</td><td>3</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>Java</td><td>7</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>Bash Scripting</td><td>5</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>3DStudio Max</td><td>3</td><td>2006</td><td>4</td>
-</tr>
-<tr>
-    <td>Combustion</td><td>3</td><td>2006</td><td>2</td>
-</tr>
-</tbody>
-</table>
