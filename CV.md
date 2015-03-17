@@ -9,7 +9,6 @@ I have always worked with computers - I hope to continue to work with them and l
 
 ## Online
 - [Github](<https://github.com/salmonmoose>)
-- [Portfolio](<https://sites.google.com/site/salmonmoose>)
 - [Google+](<https://plus.google.com/113268261330966580184/about>)
 - [Youtube](<http://www.youtube.com/user/salmonmoose>)
 - [LinkedIn](<https://au.linkedin.com/in/salmonmoose>)
@@ -25,25 +24,53 @@ I have always worked with computers - I hope to continue to work with them and l
 #### Environment
 - Linux
 - Windows
-- C++
-- Javascript
+- Unity3D
 - Python
 
 #### Description
 - I am a hobbiest game developer, I recreationally program games in my free time
-- More recent projects have had important libraries abstracted from them to share with the community
+- I also run an over-engineered personal network, providing everything from build services for my projects, to a house wide media portal.
+
+#### Finished Works
+- [Poker Kingdoms](<https://play.google.com/store/apps/details?id=com.moosebot.pokerkingdoms>)
+  Poker Kingdoms is a blend between tile matching games such as Bejeweled, and Poker
+- [The Zen of Zen](<https://play.google.com/store/apps/details?id=com.moosebot.zenofzen>)
+  The Zen of Zen was created in a single day as part of the 1 Game a Month program.
 
 #### Current Projects
-- A tile matching game built on top of ImpactJS, implementing Google Play Game Services
-- Plugin for ImpactJS providing a pure-canvas implementation of Google Play Game Services
-- A side-view shooter, building a procedural city, using C++ and SDL
-- A Isometric Space Shooter, dynamic threaded generation of Marching Cubes Terrain, using C++ and Irrlicht3D
-- Extension to a procedural noise library allowing for scripting, including an XML implementation
+- Bringing Poker Kingdoms to PC, adding a campaign mode and Artificial Intelligence player
+- Website dedicated to exposing quality products and services for Dog Owners
+- Educational title, with a focus on reenforcing being correct, rather than punishing being wrong
+
+---
+
+### Systems Administrator
+December 2013 - Present
+Blackboard
+North Adelaide, South Australia
+
+#### Environment
+- Linux
+- Puppet
+- Git/Gerrit
+- Nagios/Graphite/New Relic
+
+#### Description
+- Operation and maintenance of systems supporting moodle instances
+
+#### Responsibilities
+- On call monitoring of infrastructure, actioning of events
+
+#### Accomplishments
+- Automation of highly manual fault reporting procedure
+- Creation of high-level display of system faults for large screen display
+    - Custom interfaces created for Nagios, Foreman, and graphite
+    - AJAX front end to bring real time information from multiple sources
 
 ---
 
 ### Applications & Systems Administrator
-July 2013 - Current
+July 2013 - December 2013
 Netspot
 North Adelaide, South Australia
 
@@ -250,79 +277,3 @@ Magill, South Australia
 January 1991 - July 1995 
 Marryatville High School
 Marryatville, South Australia
-
----
-
-## Skills Matrix
-
----
-
-<table>
-<thead>
-<tr>
-    <td>Package/Skill</td><td>Years Experience</td><td>Last Used</td><td>Skill Level</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-    <td>PHP</td><td>9</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>JavaScript</td><td>6</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>prototype.js</td><td>3</td><td>2009</td><td>3</td>
-</tr>
-<tr>
-    <td>jQuery</td><td>4</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>vBulletin (v3)</td><td>7</td><td>2010</td><td>4</td>
-</tr>
-<tr>
-    <td>MediaWiki</td><td>2</td><td>2007</td><td>3</td>
-</tr>
-<tr>
-    <td>AJAX</td><td>6</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>Linux (Debian Variants)</td><td>7</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>Apache 2</td><td>8</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>MySQL</td><td>8</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>HTML 5</td><td>3</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>Canvas</td><td>3</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>CSS 3</td><td>9</td><td>Current</td><td>5</td>
-</tr>
-<tr>
-    <td>CodeIgniter</td><td>4</td><td>2010</td><td>5</td>
-</tr>
-<tr>
-    <td>Python</td><td>3</td><td>2012</td><td>3</td>
-</tr>
-<tr>
-    <td>C++</td><td>3</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>Java</td><td>7</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>Bash Scripting</td><td>5</td><td>Current</td><td>3</td>
-</tr>
-<tr>
-    <td>3DStudio Max</td><td>3</td><td>2006</td><td>4</td>
-</tr>
-<tr>
-    <td>Combustion</td><td>3</td><td>2006</td><td>2</td>
-</tr>
-</tbody>
-</table>
