@@ -57,9 +57,13 @@ North Adelaide, South Australia
 
 #### Description
 - Operation and maintenance of systems supporting moodle instances
+- Despite being more of a systems role, my focus has remained focussed on code, providing tools to aid in maintaining systems
 
 #### Responsibilities
 - On call monitoring of infrastructure, actioning of events
+- Large scale secure backups
+- Provisioning new services
+- Diagnosing, and fixing system faults
 
 #### Accomplishments
 - Automation of highly manual fault reporting procedure
