@@ -9,7 +9,6 @@ I have always worked with computers - I hope to continue to work with them and l
 
 ## Online
 - [Github](<https://github.com/salmonmoose>)
-- [Google+](<https://plus.google.com/113268261330966580184/about>)
 - [Youtube](<http://www.youtube.com/user/salmonmoose>)
 - [LinkedIn](<https://au.linkedin.com/in/salmonmoose>)
 
@@ -29,7 +28,6 @@ I have always worked with computers - I hope to continue to work with them and l
 
 #### Description
 - I am a hobbiest game developer, I recreationally program games in my free time
-- I also run an over-engineered personal network, providing everything from build services for my projects, to a house wide media portal.
 
 #### Finished Works
 - [Poker Kingdoms](<https://play.google.com/store/apps/details?id=com.moosebot.pokerkingdoms>)
@@ -40,7 +38,6 @@ I have always worked with computers - I hope to continue to work with them and l
 #### Current Projects
 - Bringing Poker Kingdoms to PC, adding a campaign mode and Artificial Intelligence player
 - Website dedicated to exposing quality products and services for Dog Owners
-- Educational title, with a focus on reenforcing being correct, rather than punishing being wrong
 
 ---
 
@@ -54,6 +51,8 @@ North Adelaide, South Australia
 - Puppet
 - Git/Gerrit
 - Nagios/Graphite/New Relic
+- Vagrant
+- Python/web2py
 
 #### Description
 - Operation and maintenance of systems supporting moodle instances
@@ -67,6 +66,9 @@ North Adelaide, South Australia
 
 #### Accomplishments
 - Automation of highly manual fault reporting procedure
+    - Ongoing work expanding towards a client facing reporting tool
+    - Extending to provide monthly reports of system stability and operations
+      actions.
 - Creation of high-level display of system faults for large screen display
     - Custom interfaces created for Nagios, Foreman, and graphite
     - AJAX front end to bring real time information from multiple sources
@@ -155,10 +157,10 @@ Internet Services
 ---
 
 ### Senior Developer
-2008 - 2010 
+2008 - 2010
 Ballistic Media
 Adelaide, South Australia
-Internet Services 
+Internet Services
 
 #### Environment
 - Linux
@@ -200,7 +202,7 @@ As the world moved towards portable devices, the reliance on closed products bec
 ---
 
 ### Developer
-2006 - 2008 
+2006 - 2008
 Ballistic Media
 Adelaide, South Australia
 Internet Services
@@ -236,7 +238,7 @@ Internet Services
 ### Technical Director
 2004 - 2006
 CGCharacter
-Mylor, South Australia 
+Mylor, South Australia
 Broadcasting, Music and Film
 
 #### Environment
@@ -269,7 +271,7 @@ Responsibilities:
 ---
 
 ### Bachelor of Computing (Multimedia)
-2001 - 2004 
+2001 - 2004
 University of South Australia
 Magill, South Australia
 
@@ -278,6 +280,6 @@ Magill, South Australia
 ---
 
 ### High School
-January 1991 - July 1995 
+January 1991 - July 1995
 Marryatville High School
 Marryatville, South Australia
