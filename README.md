@@ -8,6 +8,7 @@ I have always worked with computers - I hope to continue to work with them and l
 ---
 
 ## Online
+- [salmonmoo.se](<https://salmonmoo.se>)
 - [Github](<https://github.com/salmonmoose>)
 - [Youtube](<http://www.youtube.com/user/salmonmoose>)
 - [LinkedIn](<https://au.linkedin.com/in/salmonmoose>)
@@ -24,20 +25,48 @@ I have always worked with computers - I hope to continue to work with them and l
 - Linux
 - Windows
 - Unity3D
+- C#
 - Python
 
 #### Description
-- I am a hobbiest game developer, I recreationally program games in my free time
+- I am a hobbiest game developer, I recreationally program games in my free time.
+
+#### Community
+- As a indie game developer, I am active within vaious game development communities - in particular Ludum Dare,
+  reddit (/r/gamedev), Facebook (Indie Game Developers), and Lost Decade's discord group.
 
 #### Finished Works
 - [Poker Kingdoms](<https://play.google.com/store/apps/details?id=com.moosebot.pokerkingdoms>)
   Poker Kingdoms is a blend between tile matching games such as Bejeweled, and Poker
+  the rework of this game has been Greenlit for steam and final touches are being made to the initial release
 - [The Zen of Zen](<https://play.google.com/store/apps/details?id=com.moosebot.zenofzen>)
   The Zen of Zen was created in a single day as part of the 1 Game a Month program.
+- [Vine](<http://salmonmoo.se/vine-ld42>)
+- [Symbolic Vapour](<https://symbolicvapour.com.au>)
+  Freelance client work - realizing design from concepts and customizing templates.
 
-#### Current Projects
-- Bringing Poker Kingdoms to PC, adding a campaign mode and Artificial Intelligence player
-- Website dedicated to exposing quality products and services for Dog Owners
+---
+
+### Software Engineer
+October 2016 - December 2016
+Blackboard
+North Adelaide, South Australia
+
+#### Environment
+- OSX
+- Virtualized Linux Docker Host
+- PHP
+- Moodle
+- Python/web2py
+- Go
+
+#### Description
+- Development of internal systems tools for monitoring, deployment, and client communications
+- Refactoring, testing, and maintenance of custom file holder
+
+#### Responsibilities
+- Development of core level systems for main product line (Moodle)
+- Building customizations for various open source projects for systems work
 
 ---
 
