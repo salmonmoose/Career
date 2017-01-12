@@ -59,6 +59,7 @@ North Adelaide, South Australia
 - Moodle
 - Python/web2py
 - Go
+- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - Development of internal systems tools for monitoring, deployment, and client communications
@@ -71,7 +72,7 @@ North Adelaide, South Australia
 ---
 
 ### Systems Administrator
-December 2013 - Present
+December 2013 - October 2016
 Blackboard
 North Adelaide, South Australia
 
@@ -82,6 +83,7 @@ North Adelaide, South Australia
 - Nagios/Graphite/New Relic
 - Vagrant
 - Python/web2py
+- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - Operation and maintenance of systems supporting moodle instances
@@ -114,6 +116,7 @@ North Adelaide, South Australia
 - PHP
 - Moodle
 - Postgres
+- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - High level support of Moodle installations
@@ -135,6 +138,7 @@ Internet Services
 - MySQL
 - PHP
 - ContentOne(In-house CMS)
+- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - Development of business management software for third parties.
@@ -163,6 +167,7 @@ Internet Services
 - MySQL
 - PHP
 - CodeIgnighter
+- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - CGChallenge is a twice annual international art competition. Community members are tasked to produce still images and videos to represent a specific topic and are judges by leaders of the industry.
@@ -200,6 +205,7 @@ Internet Services
 - Google Apps For Your Domain
 - CodeIgniter
 - Solr/Lucene
+- HTML/CSS/JavaScript/JQuery
 
 #### Description
 - CGSociety receives much of its funding from advertisers. The existing advertising software that was being used was discovered to be unreliable in its delivery, and there was no formal way of measuring how users moved around the site
@@ -243,6 +249,7 @@ Internet Services
 - Synergy (Internal Framework)
 - vBulletin
 - MediaWiki
+- HTML/CSS/JavaScript/JQuery
 
 #### Description
 - CGPortfolio was developed as a way to give artists a way to display their artwork and network with each other
