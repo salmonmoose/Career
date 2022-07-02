@@ -8,7 +8,6 @@ I have always worked with computers - I hope to continue to work with them and l
 ---
 
 ## Online
-- [salmonmoo.se](<https://salmonmoo.se>)
 - [Github](<https://github.com/salmonmoose>)
 - [Youtube](<http://www.youtube.com/user/salmonmoose>)
 - [LinkedIn](<https://au.linkedin.com/in/salmonmoose>)
@@ -27,23 +26,73 @@ I have always worked with computers - I hope to continue to work with them and l
 - Unity3D
 - C#
 - Python
-
-#### Description
-- I am a hobbiest game developer, I recreationally program games in my free time.
+- Godot
 
 #### Community
-- As a indie game developer, I am active within vaious game development communities - in particular Ludum Dare,
-  reddit (/r/gamedev), Facebook (Indie Game Developers), and Lost Decade's discord group.
+- As a indie game developer, I am active within various game development communities - in particular Ludum Dare, Facebook (Indie Game Developers).
 
-#### Finished Works
-- [Poker Kingdoms](<https://play.google.com/store/apps/details?id=com.moosebot.pokerkingdoms>)
-  Poker Kingdoms is a blend between tile matching games such as Bejeweled, and Poker
-  the rework of this game has been Greenlit for steam and final touches are being made to the initial release
-- [The Zen of Zen](<https://play.google.com/store/apps/details?id=com.moosebot.zenofzen>)
-  The Zen of Zen was created in a single day as part of the 1 Game a Month program.
-- [Vine](<http://salmonmoo.se/vine-ld42>)
-- [Symbolic Vapour](<https://symbolicvapour.com.au>)
-  Freelance client work - realizing design from concepts and customizing templates.
+#### Online
+- Most of my personal projects are visible on [itch.io](<https://salmonmoose.itch.io>)
+
+## Career
+---
+
+### Software Developer
+April 2019 - Present
+Karmabunny 
+Norwood, South Australia
+
+#### Environment
+- Linux
+- Linode / AWS
+- Visual Studio Code
+- Git
+- Sprout CMS (In-house, open source)
+- Craft CMS
+- Vue
+- React
+- GraphQL
+- TypeScript
+- RMS
+
+#### Description
+- Karmabunny largely provides brochure sites - I was involved in custom engineering of specialized features:
+  - Interactive maps using leaflet and vue
+  - Dynamic Vue widgets interfacing with AJAX and later GraphQL
+  - Personal profile website, including security features, and client side image manipulation (bluring, and watermarking uploaded images).
+  - Holiday booking websites interfacing with RMS
+  - Various other API based interfaces both providing and consuming data
+
+#### Responsibilities
+- Design and development of individual features and entire sites built upon Craft and Sprout CMS systems
+- Front end development using Vue.js, GraphQL, Leaflet, and TypeScript
+- Server deployment, maintenance, security audits and rectification
+- Page speed, and SEO optimization based on client requests
+
+---
+
+### Software Engineer
+March 2017 - March 2019
+Vizirail Pty Ltd
+Adelaide, South Australia
+
+#### Environment
+- Windows
+- Visual Studio
+- Javascript
+- Leaflet
+- Custom Framework
+- RESTful Interface with .NET application
+
+#### Description
+- Development of a dynamic Javascript application to manage rail cars of Australian Rail services
+- Development of a dynamic Map to track location of freight trains locations from GPS coordinates
+
+#### Responsibilities
+- These applications were built from scratch and eventually combined into a single application
+- They were built on top of a node.js framework and were dynamically skinned to serve several clients
+- I was responsible for the design and implementation of the front end application and working with the back end
+  developer to create an API to work with
 
 ---
 
@@ -86,7 +135,7 @@ North Adelaide, South Australia
 - HTML5/CSS3/JavaScript/JQuery
 
 #### Description
-- Operation and maintenance of systems supporting moodle instances
+- Operation and maintenance of systems supporting Moodle instances
 - Despite being more of a systems role, my focus has remained focussed on code, providing tools to aid in maintaining systems
 
 #### Responsibilities
@@ -146,7 +195,7 @@ Internet Services
 #### Responsibilities
 - Develop Software catering to business rules for a variety of clients
     - Allow customer service team to design, measure, and layout solar panels based on Google Maps Data
-    - Export layouts to images and PDFs using HTML5 <canvas> element
+    - Export layouts to images and PDFs using HTML5 `<canvas>` element
     - Monitor stock in multiple warehouses, track incoming, and outgoing shipments, and transfers
     - Allocate workers based incoming jobs, generate worksheets and rosters
     - Calculate commissions based on jobs attended
