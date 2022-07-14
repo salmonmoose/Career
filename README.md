@@ -16,7 +16,24 @@ I have always worked with computers - I hope to continue to work with them and l
 
 ## Work Experience
 
----
+|Tech used |Last Used|Years Experience|Rating   |
+|:--------:|:-------:|:--------------:|:-------:|
+|Apache    |2022     |16              |Advanced |
+|Git       |2022     |10              |Competent|
+|GraphQL   |2022     |1               |Beginner |
+|Javascript|2022     |16              |Expert   |
+|JQuery    |2022     |14              |Advanced |
+|Leaflet   |2022     |2               |Competent|
+|Linux     |2022     |18              |Advanced |
+|MySQL     |2022     |16              |Advanced |
+|Nginx     |2022     |9               |Advanced |
+|PHP       |2022     |16              |Expert   |
+|PostgreSQL|2016     |3               |Competent|
+|REACT.JS  |2020     |1               |Beginner |
+|TypeScript|2022     |3               |Competent|
+|Vue.JS    |2022     |2               |Competent|
+|Windows   |2022     |30              |Advanced |
+
 
 ### Software Developer
 April 2019 - Present
@@ -266,16 +283,13 @@ Responsibilities:
 ---
 ## Education
 ---
-
 ### Bachelor of Computing (Multimedia)
 2001 - 2004
 University of South Australia
 Magill, South Australia
 
 > The program is designed to educate students for a career as computer professionals specialising in multimedia. It provides a broad and fundamental understanding of the theory and practice of computers and information technology, plus specialist knowledge of multimedia concepts and techniques. The program prepares graduates for professional careers in the computing and multimedia industry in general, and specialist multimedia software development organisations in particular.
-
 ---
-
 ### High School
 January 1991 - July 1995
 Marryatville High School
@@ -290,4 +304,4 @@ Marryatville, South Australia
 - As a indie game developer, I am active within various game development communities - in particular Ludum Dare, Facebook (Indie Game Developers).
 
 #### Online
-- Most of my personal projects are visible on [itch.io](<https://salmonmoose.itch.io>)
+- Most of my personal projects are visible on [itch.io](<https://salmonmoose.itch.io>)  
