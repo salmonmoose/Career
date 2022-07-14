@@ -23,19 +23,6 @@ April 2019 - Present
 Karmabunny 
 Norwood, South Australia
 
-#### Environment
-- Linux
-- Linode / AWS
-- Visual Studio Code
-- Git
-- Sprout CMS (In-house, open source)
-- Craft CMS
-- Vue
-- React
-- GraphQL
-- TypeScript
-- RMS
-
 #### Description
 - Karmabunny largely provides brochure sites - I was involved in custom engineering of specialized features:
   - Interactive maps using leaflet and vue
@@ -50,20 +37,14 @@ Norwood, South Australia
 - Server deployment, maintenance, security audits and rectification
 - Page speed, and SEO optimization based on client requests
 
+**Environment: Linux, Linode / AWS, Visual Studio Code, Git, Sprout CMS (In-house, open source), Craft CMS, Vue, React, GraphQL, TypeScript, RMS**
+
 ---
 
 ### Software Engineer
 March 2017 - March 2019
 Vizirail Pty Ltd
 Adelaide, South Australia
-
-#### Environment
-- Windows
-- Visual Studio
-- Javascript
-- Leaflet
-- Custom Framework
-- RESTful Interface with .NET application
 
 #### Description
 - Development of a dynamic Javascript application to manage rail cars of Australian Rail services
@@ -75,21 +56,14 @@ Adelaide, South Australia
 - I was responsible for the design and implementation of the front end application and working with the back end
   developer to create an API to work with
 
+**Environment: Windows, Visual Studio, Javascript, Leaflet, Custom Framework, RESTful Interface with .NET application**
+
 ---
 
 ### Software Engineer
 October 2016 - December 2016
 Blackboard
 North Adelaide, South Australia
-
-#### Environment
-- OSX
-- Virtualized Linux Docker Host
-- PHP
-- Moodle
-- Python/web2py
-- Go
-- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - Development of internal systems tools for monitoring, deployment, and client communications
@@ -99,21 +73,14 @@ North Adelaide, South Australia
 - Development of core level systems for main product line (Moodle)
 - Building customizations for various open source projects for systems work
 
+**Environment: OSX, Virtualized Linux Docker Host, PHP, Moodle, Python/web2py, Go, HTML5/CSS3/JavaScript/JQuery**
+
 ---
 
 ### Systems Administrator
 December 2013 - October 2016
 Blackboard
 North Adelaide, South Australia
-
-#### Environment
-- Linux
-- Puppet
-- Git/Gerrit
-- Nagios/Graphite/New Relic
-- Vagrant
-- Python/web2py
-- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - Operation and maintenance of systems supporting Moodle instances
@@ -134,6 +101,8 @@ North Adelaide, South Australia
     - Custom interfaces created for Nagios, Foreman, and graphite
     - AJAX front end to bring real time information from multiple sources
 
+**Environment: Linux, Puppet, Git/Gerrit, Nagios/Graphite/New Relic, Vagrant, Python/web2py, HTML5/CSS3/JavaScript/JQuery**
+
 ---
 
 ### Applications & Systems Administrator
@@ -141,18 +110,13 @@ July 2013 - December 2013
 Netspot
 North Adelaide, South Australia
 
-#### Environment
-- Linux
-- PHP
-- Moodle
-- Postgres
-- HTML5/CSS3/JavaScript/JQuery
-
 #### Description
 - High level support of Moodle installations
 
 #### Responsibilities
 - Action bug reports and user faults escallated from help-desk and account managers
+
+**Environment: Linux, PHP, Moodle, Postgres, HTML5/CSS3/JavaScript/JQuery**
 
 ---
 
@@ -161,14 +125,6 @@ December 2011 - July 2013
 WorldWeb Management Services
 Adelaide, South Australia
 Internet Services
-
-#### Environment
-- Linux
-- Apache
-- MySQL
-- PHP
-- ContentOne(In-house CMS)
-- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - Development of business management software for third parties.
@@ -183,6 +139,8 @@ Internet Services
     - Site to site secure communication channel interfacing legacy system with web-interface
     - Scheduling application allowing for repeating, and one off appointments, changing frequencies based on season
 
+**Environment: Linux, Apache, MySQL, PHP, ContentOne(In-house CMS), HTML5/CSS3/JavaScript/JQuery**
+
 ---
 
 ### Enterprise Architect
@@ -190,14 +148,6 @@ Internet Services
 Ballistic Media
 Adelaide, South Australia
 Internet Services
-
-#### Environment
-- Linux
-- Apache 2
-- MySQL
-- PHP
-- CodeIgnighter
-- HTML5/CSS3/JavaScript/JQuery
 
 #### Description
 - CGChallenge is a twice annual international art competition. Community members are tasked to produce still images and videos to represent a specific topic and are judges by leaders of the industry.
@@ -218,6 +168,8 @@ Internet Services
     - Create series of abstractions, for warehouses, shipping methods, and product types, supporting current inventory and allowing easy implementation for new sales types
     - Built a CRUD layer for administration that allows overwriting for more user friendly output
 
+**Environment: Linux, Apache 2, MySQL, PHP, CodeIgnighter, HTML5/CSS3/JavaScript/JQuery**
+
 ---
 
 ### Senior Developer
@@ -225,17 +177,6 @@ Internet Services
 Ballistic Media
 Adelaide, South Australia
 Internet Services
-
-#### Environment
-- Linux
-- Apache 2
-- MySQL
-- Google Analytics
-- Google DoubleClick
-- Google Apps For Your Domain
-- CodeIgniter
-- Solr/Lucene
-- HTML/CSS/JavaScript/JQuery
 
 #### Description
 - CGSociety receives much of its funding from advertisers. The existing advertising software that was being used was discovered to be unreliable in its delivery, and there was no formal way of measuring how users moved around the site
@@ -264,6 +205,8 @@ As the world moved towards portable devices, the reliance on closed products bec
     - Demonstrated the power of shared, online documents
     - Moved important company wide documents online allowing single current version available to all
 
+**Environment: Linux, Apache 2, MySQL, Google Analytics, Google DoubleClick, Google Apps For Your Domain, CodeIgniter, Solr/Lucene,HTML/CSS/JavaScript/JQuery**
+
 ---
 
 ### Developer
@@ -271,15 +214,6 @@ As the world moved towards portable devices, the reliance on closed products bec
 Ballistic Media
 Adelaide, South Australia
 Internet Services
-
-#### Environment
-- Linux
-- MySQL
-- PHP
-- Synergy (Internal Framework)
-- vBulletin
-- MediaWiki
-- HTML/CSS/JavaScript/JQuery
 
 #### Description
 - CGPortfolio was developed as a way to give artists a way to display their artwork and network with each other
@@ -299,6 +233,8 @@ Internet Services
 - Worked with forum-leaders (moderators) on CGTalk to allow the company to make choices based on community feedback
 - Worked with forum-leaders to organise community events such as CGChallenges selecting topics, and judges, as well as running voting, and getting feedback when results were posted
 
+**Environment, Linux, MySQL, PHP, Synergy (Internal Framework), vBulletin, MediaWiki, HTML/CSS/JavaScript/JQuery**
+
 ---
 
 ### Technical Director
@@ -306,11 +242,6 @@ Internet Services
 CGCharacter
 Mylor, South Australia
 Broadcasting, Music and Film
-
-#### Environment
-- 3DStudio Max
-- Combustion
-- Photoshop
 
 #### Description
 - Provided the film “A Sound of Thunder” with musculature animation, as well as some fluid interaction
@@ -330,10 +261,10 @@ Responsibilities:
 - Developed scripts to change materials on characters to demonstrate use
 - Developed toolkit to eliminate simple repetitive tasks
 
+**Environment: 3DStudio Max, Combustion, Photoshop**
+
 ---
-
 ## Education
-
 ---
 
 ### Bachelor of Computing (Multimedia)
@@ -353,13 +284,7 @@ Marryatville, South Australia
 ---
 ### Personal Projects
 
-#### Environment
-- Linux
-- Windows
-- Unity3D
-- C#
-- Python
-- Godot
+**Environment: Linux, Windows, Unity3D, C#, Python, Godot**
 
 #### Community
 - As a indie game developer, I am active within various game development communities - in particular Ludum Dare, Facebook (Indie Game Developers).
