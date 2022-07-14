@@ -44,7 +44,7 @@ Norwood, South Australia
 - Karmabunny largely provides brochure sites - I was involved in custom engineering of specialized features:
   - Interactive maps using leaflet and vue
   - Dynamic Vue widgets interfacing with AJAX and later GraphQL
-  - Personal profile website, including security features, and client side image manipulation (bluring, and watermarking uploaded images).
+  - Personal profile website, including security features, and client side image manipulation (blurring, and watermarking uploaded images).
   - Holiday booking websites interfacing with RMS
   - Various other API based interfaces both providing and consuming data
 
@@ -131,7 +131,7 @@ North Adelaide, South Australia
 - High level support of Moodle installations
 
 #### Responsibilities
-- Action bug reports and user faults escallated from help-desk and account managers
+- Action bug reports and user faults escalated from help-desk and account managers
 
 **Environment: Linux, PHP, Moodle, Postgres, HTML5/CSS3/JavaScript/JQuery**
 
@@ -248,7 +248,7 @@ Internet Services
     - Created a series of templates for members to use creating their articles
     - Coach community members in using the MediaWiki markup
 - Worked with forum-leaders (moderators) on CGTalk to allow the company to make choices based on community feedback
-- Worked with forum-leaders to organise community events such as CGChallenges selecting topics, and judges, as well as running voting, and getting feedback when results were posted
+- Worked with forum-leaders to organize community events such as CGChallenges selecting topics, and judges, as well as running voting, and getting feedback when results were posted
 
 **Environment, Linux, MySQL, PHP, Synergy (Internal Framework), vBulletin, MediaWiki, HTML/CSS/JavaScript/JQuery**
 
@@ -288,7 +288,7 @@ Responsibilities:
 University of South Australia
 Magill, South Australia
 
-> The program is designed to educate students for a career as computer professionals specialising in multimedia. It provides a broad and fundamental understanding of the theory and practice of computers and information technology, plus specialist knowledge of multimedia concepts and techniques. The program prepares graduates for professional careers in the computing and multimedia industry in general, and specialist multimedia software development organisations in particular.
+> The program is designed to educate students for a career as computer professionals specializing in multimedia. It provides a broad and fundamental understanding of the theory and practice of computers and information technology, plus specialist knowledge of multimedia concepts and techniques. The program prepares graduates for professional careers in the computing and multimedia industry in general, and specialist multimedia software development organizations in particular.
 ---
 ### High School
 January 1991 - July 1995
