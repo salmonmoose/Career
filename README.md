@@ -18,25 +18,6 @@ I have always worked with computers - I hope to continue to work with them and l
 
 ---
 
-### Personal Projects
-
-#### Environment
-- Linux
-- Windows
-- Unity3D
-- C#
-- Python
-- Godot
-
-#### Community
-- As a indie game developer, I am active within various game development communities - in particular Ludum Dare, Facebook (Indie Game Developers).
-
-#### Online
-- Most of my personal projects are visible on [itch.io](<https://salmonmoose.itch.io>)
-
-## Career
----
-
 ### Software Developer
 April 2019 - Present
 Karmabunny 
@@ -368,3 +349,20 @@ Magill, South Australia
 January 1991 - July 1995
 Marryatville High School
 Marryatville, South Australia
+
+---
+### Personal Projects
+
+#### Environment
+- Linux
+- Windows
+- Unity3D
+- C#
+- Python
+- Godot
+
+#### Community
+- As a indie game developer, I am active within various game development communities - in particular Ludum Dare, Facebook (Indie Game Developers).
+
+#### Online
+- Most of my personal projects are visible on [itch.io](<https://salmonmoose.itch.io>)
